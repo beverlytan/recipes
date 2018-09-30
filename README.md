@@ -1,5 +1,6 @@
 Random recipes I enjoy
 
-- Chinese
-- Japanese
-- Slow cooker
+- [Baking](/baking)
+- [Chinese](/chinese)
+- [Japanese](/japanese)
+- [Slow cooker](slowcooker)
