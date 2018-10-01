@@ -1,5 +1,7 @@
 Chinese recipes :-) 
 
+[Butter pork chops](http://themeatmen.sg/butter-pork-chops/)
+
 [Crispy noodles](https://noobcook.com/seafood-crispy-noodles/2/)
 
 [Hot plate tofu](https://themeatmen.sg/hotplate-tofu/)
@@ -11,3 +13,11 @@ Chinese recipes :-)
 [Claypot chicken rice cooker recipe](https://noobcook.com/chicken-lup-cheong-rice/)
 
 [Cabbage rice](https://noobcook.com/cabbage-rice/2/)
+
+[Kung Pao chicken](http://themeatmen.sg/kung-pao-chicken/)
+
+[Black fungus chicken stew](https://rasamalaysia.com/chinese-chicken-stew-recipe/)
+
+[Soy sauce chicken noodle](http://themeatmen.sg/recipe-soy-sauce-chicken-noodle/)
+Use 1.5 tbsp of granulated sugar instead of rock sugar
+
