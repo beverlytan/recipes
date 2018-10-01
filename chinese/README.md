@@ -8,6 +8,6 @@ Chinese recipes :-)
 
 [Salmon congee](https://thecookingbunny.blogspot.com/2012/03/salmon-rice-porridge-salmon-congee.html)
 
-[Claypot chicken rice cooker recipe)[https://noobcook.com/chicken-lup-cheong-rice/]
+[Claypot chicken rice cooker recipe](https://noobcook.com/chicken-lup-cheong-rice/)
 
 [Cabbage rice](https://noobcook.com/cabbage-rice/2/)
