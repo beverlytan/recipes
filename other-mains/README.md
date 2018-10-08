@@ -11,3 +11,9 @@ Recipes for other main dishes!
 [Chicken puff pastry](https://www.bbcgoodfood.com/recipes/1765/chicken-and-mushroom-puff-pie)
 
 [Baked lemon herb salmon](https://sallysbakingaddiction.com/2015/09/04/baked-lemon-herb-salmon/)
+
+[Beef meatballs](/other-mains/beef-meatballs.md) 
+
+[Simple baked salmon](/other-mains/simple-salmon.md) 
+
+[Making a stew](/other-mains/making-a-stew.md) 
