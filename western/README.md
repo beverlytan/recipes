@@ -6,7 +6,7 @@ Other western food recipes :-)
 
 [Broccoli salad](/western/broccoli-salad.md)
 
-[Chicken nuggets](/western/broccoli-salad.md)
+[Chicken nuggets](/western/chicken-nuggets.md)
 
 [Chicken puff pastry](https://www.bbcgoodfood.com/recipes/1765/chicken-and-mushroom-puff-pie)
 
@@ -20,8 +20,6 @@ Other western food recipes :-)
 
 [Pork medallions with mushroom sauce](https://thehealthyfoodie.com/pork-medallions-with-mushroom-sauce/)
 
-[Pulled pork mac and cheese](/western/pulled-pork-mac.md)
-
-[Pulled pork nachos](/western/pulled-pork-nachos.md)
+[Pulled pork](/western/pulled-pork.md)
 
 [Stew](/western/stew-making.md) 
