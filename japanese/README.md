@@ -8,7 +8,7 @@ Japanese recipes!
 
 [Chicken katsu](https://www.justonecookbook.com/baked-tonkatsu/)
 
-[Gyudon rice bowl](https://www.youtube.com/watch?v=Gl6n2nDyjeA)
+[Gyudon rice bowl](https://www.youtube.com/watch?v=Gl6n2nDyjeA) or [here](https://www.justonecookbook.com/gyudon/)
 
 [Chicken teriyaki](https://www.justonecookbook.com/chicken-teriyaki/)
 
