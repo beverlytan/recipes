@@ -57,3 +57,5 @@ Instructions
 - Chill and then serve
 
 Serve all 3 components with pita bread :-) 
+
+Recipe sourced from [Binging with Babish](https://www.bingingwithbabish.com/recipes/2017/8/22/shawarma)
