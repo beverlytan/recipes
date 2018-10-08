@@ -1,6 +1,6 @@
 Other western food recipes :-) 
 
-[Baked salmon](/western/simple-salmon.md) 
+[Baked salmon](/western/baked-salmon.md) 
 
 [Beef meatballs](/western/beef-meatballs.md) 
 
@@ -24,4 +24,4 @@ Other western food recipes :-)
 
 [Pulled pork nachos](/western/pulled-pork-nachos.md)
 
-[Stew](/western/making-a-stew.md) 
+[Stew](/western/stew-making.md) 
