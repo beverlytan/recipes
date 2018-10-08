@@ -7,6 +7,6 @@ Random recipes I enjoy
 - [Japanese](/japanese)
 - [Korean](/korean)
 - [Mexican](/mexican)
-- [Other mains](/other-mains)
 - [Slow cooker](slowcooker)
 - [Thai](/thai)
+- [Western](/western)
