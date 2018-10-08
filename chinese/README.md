@@ -21,3 +21,6 @@ Chinese recipes :-)
 [Soy sauce chicken noodle](http://themeatmen.sg/recipe-soy-sauce-chicken-noodle/)
 Use 1.5 tbsp of granulated sugar instead of rock sugar
 
+[Tessa's ahma's soy sauce chicken](/chinese/soy-sauce-chicken.md)
+
+[Tessa's ahma's garlic chicken](/chinese/garlic-chicken.md)
