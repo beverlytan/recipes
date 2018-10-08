@@ -17,3 +17,5 @@ Recipes for other main dishes!
 [Simple baked salmon](/other-mains/simple-salmon.md) 
 
 [Making a stew](/other-mains/making-a-stew.md) 
+
+[Broccoli salad](/other-mains/broccoli-salad.md)
