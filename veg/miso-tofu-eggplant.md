@@ -23,4 +23,4 @@ Instructions
 - After 30 minutes, spoon some of the miso glaze onto tofu and eggplants and spread evenly
 - Place in oven again for 10 minutes, or until top has nice char and caramelization
 
-
+Recipe taken from [Just One Cookbook](https://www.justonecookbook.com/miso-dengaku/)
