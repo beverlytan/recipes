@@ -30,3 +30,5 @@ Instructions
   - Lightly salt the water, and stir frequently to prevent sticking
 - Add spinach to the miso soup broth
 - Divide the noodles up, add soup broth and toppings, and serve! 
+
+Recipe taken from [Bojon Gourmet](https://bojongourmet.com/2014/01/miso-and-soba-noodle-soup-with-roasted/)
