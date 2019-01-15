@@ -2,6 +2,8 @@ Chinese recipes :-)
 
 [Butter pork chops](http://themeatmen.sg/butter-pork-chops/)
 
+[Claypot chicken with iron cast pot](https://chefandsommelier.blogspot.com/2015/10/claypot-chicken-rice.html)
+
 [Crispy noodles](https://noobcook.com/seafood-crispy-noodles/2/)
 
 [Hot plate tofu](https://themeatmen.sg/hotplate-tofu/)
@@ -24,3 +26,4 @@ Use 1.5 tbsp of granulated sugar instead of rock sugar
 [Tessa's ahma's soy sauce chicken](/chinese/soy-sauce-chicken.md)
 
 [Tessa's ahma's garlic chicken](/chinese/garlic-chicken.md)
+
