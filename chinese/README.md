@@ -27,3 +27,8 @@ Use 1.5 tbsp of granulated sugar instead of rock sugar
 
 [Tessa's ahma's garlic chicken](/chinese/garlic-chicken.md)
 
+
+
+https://whattocooktoday.com/zha-jiang-mian.html
+
+https://chefandsommelier.blogspot.com/2015/10/claypot-chicken-rice.html
