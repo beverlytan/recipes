@@ -32,3 +32,5 @@ Use 1.5 tbsp of granulated sugar instead of rock sugar
 https://whattocooktoday.com/zha-jiang-mian.html
 
 https://chefandsommelier.blogspot.com/2015/10/claypot-chicken-rice.html
+
+[Cabbage rice in dutch oven](https://travelling-foodies.com/2016/10/21/cabbage-rice/) 
