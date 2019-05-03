@@ -9,3 +9,4 @@ Recipe blogs!
 
 
 https://thewoksoflife.com/2018/03/vegan-red-curry-tofu/
+https://www.ilovevegan.com/baked-sriracha-soy-sauce-tofu-2-quick-easy-recipes/ 
